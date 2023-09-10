@@ -1,0 +1,1 @@
+This is a simple space game created using pygame.
